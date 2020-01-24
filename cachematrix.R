@@ -1,5 +1,8 @@
-## Put comments here that give an overall description of what your
-## functions do
+## set:Creates a matrix x
+## get: stores the matrix x
+## setinverse: assigns the inverse to m
+## getinverse: stores the inverse m into cache
+## matix has 4 functions: set, get, setinverse, getinverse
 
 ## Describe this function: Creates a matix and caches its inverse
 
